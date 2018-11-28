@@ -1,0 +1,7 @@
+.git
+.vs
+x64/
+*.sln
+minimal.vcxproj
+minimal.vcxproj.filters
+minimal.vcxproj.user
